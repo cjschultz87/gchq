@@ -193,18 +193,6 @@ while index < len(vocabulary_0):
         if index_3_0 >= november_0[index]:
             bravo = 1
     
-    while index_3_0 < november_0[index] and 1>2:
-        
-        index_3_1 = 0
-        
-        pq = []
-        
-        iota_index = 0
-        
-        while iota_index < len(iota):
-            
-            iota_index += 1
-        
         #123 ident
         #213 r01
         
@@ -279,27 +267,7 @@ while index < len(vocabulary_0):
         #2431
         
         
-        pq_sierra = ""
         
-        pm[index].append(pq)
-        
-        index_4 = 0
-        
-        while index_4 < len(pq):
-            index_4_1 = 0
-            
-            while index_4_1 < len(pq[index_4]):
-                if pq[index_4][index_4_1] == 1:
-                    pq_sierra += str(alphabet[v0[index][index_4_1]][0])
-                
-                index_4_1 += 1
-            
-            index_4 += 1
-        
-        pm_1[index].append(pq_sierra)
-
-        index_3_0 += 1
-
     
     index += 1
     
