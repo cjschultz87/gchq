@@ -1,3 +1,5 @@
+#Noughts and crosses/tic tac toe, but the values are 0 (empty), 1 (player), and 2 (cpu). The AI tries to find gaps between pieces, but is also affected by a probability algorithm. Edges are not boundaries. I’ve also coded a real time version.
+
 import time
 import thread
 
