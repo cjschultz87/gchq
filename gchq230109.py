@@ -1,3 +1,5 @@
+# Returns the ASCII values for characters [A Z], the values in the words [“GALAXY”,”LAND”,”NATION”,”ODYSSEY”,”WORLD”], and the average values for each word.
+
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 ascii = []
 intI = 0
