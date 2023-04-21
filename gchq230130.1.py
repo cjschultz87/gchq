@@ -1,3 +1,5 @@
+#Given a class of characters C the number of possible combinations of those characters for a string of length n is |C|^n. Each combination is computed and the entire array is searched for a match to the given input string (e.g. “pi” is combination eighty eight out of one hundred twenty one). Using a (logical) cascade allows the script to cycle through every permutation.
+
 L_0 = ["a","b","c","d","e","f","g"]
 L_1 = ["q","r","s","t"]
 L_2 = ["v","w","x"]
