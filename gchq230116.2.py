@@ -1,3 +1,5 @@
+# Given one of Matsuo Basho’s winter haiku and ten of his summer haiku, returns the number of string combinations for the winter haiku and average for the summer haiku. Based on these combinations the strings are analysed for common strings used in the winter and collection of summer haiku, then computes various probabilities of finding the strings in each.
+
 haikuSierra_0 = "resemble\nthe mind of a traveler\nthe flower of chinquapin"
 haikuSierra_1 = "from the clean fall\nyou dipped up water\nfor the tokoroten\n"
 haikuSierra_2 = "the sound of trudging horses\ni found myself in the paint\nit's summer fields\n"
