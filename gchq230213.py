@@ -1,3 +1,5 @@
+# A block cypher based on the first and last digits of the binary enumeration/encoding of values for a string.
+
 import time
 
 def binary(a,b):
