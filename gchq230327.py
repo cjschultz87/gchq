@@ -1,3 +1,5 @@
+# Rotation of letters, not in the sense of a compass card, but instead around an origin of cartesian coordinates.
+
 def cos(a):
 	cos = 1
 	index = 0
