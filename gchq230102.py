@@ -1,3 +1,5 @@
+# From the array [“fin”,”found”,”green”,”ice”,”jut”,”lap”,”mary”,”new”,”rut”], the combinations correspond to having the last letter of the first word and first letter of the second word given string pairs in the array [“fin”,”green”,”ice”,”jut”,”lap”,”mary”,”newfound”,”rut”]
+
 array = ["fin","found","green","ice","jut","lap","mary","new","rut"]
 locs = ["fin","green","ice","jut","lap","mary","newfound","rut"]
 rStrs = []
