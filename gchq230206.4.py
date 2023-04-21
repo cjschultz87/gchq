@@ -1,3 +1,5 @@
+# Instead of looking for every combination in a single array of characters the script aligns characters from possible permutations of all combinations for multiple arrays of varying lengths. In the example from gchq the input string is “index”, and the script computes every possible combination for the given arrays then searches these combinations for the input string.
+
 vocab = ["index"]
 
 alpha = ["madison", "saturn", "do", "nitrogen", "exodus"]
