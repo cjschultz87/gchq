@@ -1,3 +1,5 @@
+# Work in progress, given an enumeration of characters from [0 n], lists the various combinations with replacement for an array of strings. (see gchq puzzle 10/04/23)
+
 #strings = ["nom", "suet", "hurts", "fir", "sutra", "nus"]
 strings = ["nom"]
 days = ["monday", "tuesday", "thursday", "friday", "saturday", "sunday"]
