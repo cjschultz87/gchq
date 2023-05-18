@@ -135,9 +135,7 @@ while index < len(vocabulary_0):
         
         index_4 = 0
         
-        n_index_0 = 1
         n_index_1 = 1
-        n_index_2 = 1
         m_index = 0
         
         while index_4 < len(iota) - 1:
@@ -145,10 +143,7 @@ while index < len(vocabulary_0):
                 m_index = iota[index_4]-1
                 if m_index < 0:
                     m_index += 1
-                n_index_0 = iota_1[index_4]
                 n_index_1 = iota_1[index_4+2]
-                iota_2[index_4] = iota_2[index_4] + 1
-                n_index_2 = iota_2[index_4]
             index_4 += 1
         
         #n_index = iota[index_3_0 % iota[(index_3_0 + index_4_1) % (len(iota)-1)]]
