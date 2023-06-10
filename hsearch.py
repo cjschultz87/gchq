@@ -1,3 +1,5 @@
+# written for piping with gchq230410.1.py; the script takes data from stdin and looks for the NATO phonetic alphabet letters using the array "address" (using the encoded binary values of the letters).
+
 import sys
 
 def decimal(strb):
